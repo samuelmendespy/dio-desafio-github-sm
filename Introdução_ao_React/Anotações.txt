@@ -4,6 +4,9 @@ Aula 2 - Configurar Webpack em um novo projeto ReactJS
 
 
 # Instalar o React 
+ **Por a ocorrência de erros na instalação do React, decidi procurar
+uma forma alternativa de instalação e encontrei o create-react-app**
+
 1. Abrir terminal
 2. Comando:
     > npm install -g create-react-app
@@ -54,5 +57,12 @@ Criar o arquivo .babelrc e configurar
     > html-webpack-plugin@4 html-loader 
 
 
-Eslint - Erro, mas passou
-Html loader
+Instalar o Html loader e o Eslint
+
+Encontrei alguns pacotes obsoletos com substitutoss
+
+**eslint-loader**
+O eslint-loader está obsoleto e agora se usa **eslint-webpack-plugin**
+
+**babel-eslint**
+O babel-eslint está obsoleto e agora se usa **@babel/eslint-parser**

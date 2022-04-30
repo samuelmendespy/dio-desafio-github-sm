@@ -1,3 +1,4 @@
+Arquivo JSON da aula
 
 {
   "name": "webpack-config",
@@ -24,16 +25,3 @@
     "webpack-dev-server": "^3.7.2"
   }
 }
-
-
-
-removi
-
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-
-
-
- "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.1.1",
-    "@testing-library/user-event": "^13.5.0",
